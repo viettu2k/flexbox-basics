@@ -1,6 +1,7 @@
 .container {
     background: aquamarine;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .item1 {
@@ -25,4 +26,16 @@
     width: 25%;
     height: 200px;
     background: green;
+}
+
+.item5 {
+    width: 25%;
+    height: 200px;
+    background: coral;
+}
+
+.item6 {
+    width: 25%;
+    height: 200px;
+    background: brown;
 }
